@@ -59,14 +59,21 @@ UNIVERSITY : THAMMASAT UNIVERSITY (COLLAGE OF INTERDISCIPLINARY STUDIES , MAJOR 
 
   > HELP PATIENT GET QUEUE BEFORE GO TO PHYSICAL EXAMINATION
 
-  ![IMG_20200210_2236473991250835573492994](https://user-images.githubusercontent.com/94919990/144383562-356f25d5-59bf-4b72-85f7-80fc4022b98f.jpg)
+     <img src = "https://user-images.githubusercontent.com/94919990/144383562-356f25d5-59bf-4b72-85f7-80fc4022b98f.jpg" width = "500" height = "280">
 
 
 - UNIVERSITY PROJECT
 
-  > CREATE TOYS BY USING RECYCLE PLASTIC ( FOR EXAMPLE : BOTTLE, PLASTIC SHEET) AND GIVE TO CHILDREN FOUNDATION 
+  > CREATE TOYS BY USING RECYCLE PLASTIC ( FOR EXAMPLE : BOTTLE, PLASTIC SHEET) AND GIVE TO CHILDREN FOUNDATION
 
-### _SKILL&LANCUGE_
+     <img width="500" height = "280" alt="Screenshot 2021-12-02 153145" src="https://user-images.githubusercontent.com/94919990/144385954-274e2b5c-bd81-495d-976c-4beb88de470f.png">
+     
+     
+     <img width="500"  height = "280" alt="Screenshot 2021-12-02 153101" src="https://user-images.githubusercontent.com/94919990/144386215-67e70985-d99b-4770-812a-d4c194e02cb6.png">
+
+
+
+### _SKILL&LANGUAGE_
 
 - CODING 
 
